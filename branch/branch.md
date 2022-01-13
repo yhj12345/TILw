@@ -38,4 +38,3 @@ $ git switch -c {다른 브랜치 이름}
 
 ​		git switch 하기 전에 commit 하셨나요???
 
-햣 ㅈ
